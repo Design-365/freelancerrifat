@@ -1,0 +1,618 @@
+@media(min-width:320px) and (max-width:575px) {
+
+    /* nav start */
+    nav button i {
+        color: #fff;
+    }
+
+    nav ul {
+        text-align: center;
+        background: #444444;
+    }
+
+    nav ul li a::after {
+        display: none;
+    }
+
+    nav ul li a::before {
+        display: none;
+    }
+
+    /* nav end */
+    /* banner start */
+    #banner_part .banner_overlay .banner-details h1 {
+        font-size: 19px;
+    }
+
+    #banner_part .banner_overlay .banner-details p {
+        font-size: 12px;
+    }
+
+    #about_part .about-me-details h2 {
+        font-size: 28px;
+    }
+
+    #about_part .about-me-details .about-me-text p {
+        width: auto;
+    }
+
+    /* banner end */
+    /* about start */
+    #about_part .about-me-details .details-all .first-details {
+        margin-left: -8px;
+    }
+
+    #about_part .about-me-details .details-all .first-details ul li p {
+        font-size: 12px;
+    }
+
+    #about_part .about-me-details .details-all .second-details {
+        margin-left: -7px;
+    }
+
+    #about_part .about-me-details .details-all .second-details ul li p {
+        font-size: 11px;
+    }
+
+    /* about end */
+    /* service start */
+    #service_part .web-design h2 {
+        font-size: 16px;
+    }
+
+    #service_part .web-design ul li {
+        font-size: 9px;
+        margin-left: 86px;
+    }
+
+    #service_part .web-development h2 {
+        font-size: 15px;
+        margin-left: 107px;
+    }
+
+    #service_part .web-development ul li {
+        margin-left: 91px;
+        font-size: 9px;
+    }
+
+    #service_part .digital-marketing h2 {
+        font-size: 15px;
+        margin-left: 116px;
+    }
+
+    #service_part .digital-marketing ul li {
+        margin-left: 85px;
+        font-size: 9px;
+    }
+
+    #service_part h3 {
+        font-size: 11px;
+    }
+
+    #service_part h3 a {
+        font-size: 9px;
+    }
+
+    /* service end */
+    /* team start */
+    #team_part .team-title h2 {
+        font-size: 25px;
+    }
+
+    /* team end */
+    /* counter start */
+    #counter_part {
+        clip-path: polygon(0 0%, 100% 0, 100% 100%, 0% 100%);
+    }
+
+    #counter_part .counter-overlay {
+        padding: 34px 0;
+    }
+
+    #counter_part .t-clients {
+        margin: 18px 0;
+        padding: 13px;
+        transform: rotate(0deg);
+    }
+
+    #counter_part .t-clients h2 {
+        font-size: 16px;
+    }
+
+    #counter_part .t-clients p {
+        font-size: 10px;
+    }
+
+    /* counter end */
+    /* client  start */
+    #client-review {
+        display: none;
+    }
+
+    /* client  end */
+    /* port  start */
+    #port_part {
+        clip-path: polygon(0 0%, 100% 0, 100% 100%, 0% 100%);
+    }
+
+    /* port  end */
+    /* contact  start */
+    #contact_part {
+        clip-path: polygon(0 0%, 100% 0, 100% 100%, 0% 100%);
+    }
+
+    #contact_part .contact-main-one h2 {
+        font-size: 23px;
+    }
+
+    #contact_part .contact-main-one .contact-form form input {
+        margin-left: -8px;
+    }
+
+    #contact_part .contact-main-one .contact-form form textarea {
+        margin-left: -8px;
+        width: 259px;
+        height: 71px;
+    }
+
+    #contact_part .contact-main-one .contact-form form button {
+        left: 41%;
+        padding: 10px 91px;
+    }
+
+    #contact_part .contact-main-two .email p {
+        width: auto;
+    }
+
+    #contact_part .contact-main-two .phone p {
+        width: auto;
+    }
+
+    #contact_part .contact-main-two .email {
+        margin-left: 23px;
+    }
+
+    #contact_part .contact-main-two .phone {
+        margin-left: 23px;
+    }
+
+    #contact_part .contact-main-two .address {
+        margin-left: 23px;
+    }
+
+    #contact_part .contact-main-two .address p {
+        width: auto;
+    }
+
+    /* contact  end */
+    /* footer  start */
+    footer .social-media-icon i {
+        margin-left: 9px;
+        height: 36px;
+        width: 36px;
+        line-height: 36px;
+        font-size: 14px;
+    }
+
+    /* footer  end */
+}
+
+@media(min-width:576px) and (max-width:767px) {
+
+    /* nav start */
+    nav button i {
+        color: #fff;
+    }
+
+    nav ul {
+        text-align: center;
+        background: #444444;
+    }
+
+    nav ul li a::after {
+        display: none;
+    }
+
+    nav ul li a::before {
+        display: none;
+    }
+
+    /* nav end */
+    /* banner start */
+    #banner_part .banner_overlay .banner-details h1 {
+        font-size: 35px;
+    }
+
+    #about_part .about-me-details h2 {
+        font-size: 28px;
+    }
+
+    #about_part .about-me-details .about-me-text p {
+        width: auto;
+    }
+
+    /* banner end */
+    /* about start */
+    #about_part .about-me-details .details-all .first-details {
+        margin-left: -8px;
+    }
+
+    #about_part .about-me-details .details-all .second-details {
+        margin-left: -7px;
+    }
+
+    /* about end */
+
+    /* team start */
+    #team_part .team-title h2 {
+        font-size: 25px;
+    }
+
+    /* team end */
+    /* counter start */
+    #counter_part {
+        clip-path: polygon(0 0%, 100% 0, 100% 100%, 0% 100%);
+    }
+
+    #counter_part .counter-overlay {
+        padding: 34px 0;
+    }
+
+    #counter_part .t-clients {
+        margin: 18px 0;
+        padding: 13px;
+        transform: rotate(0deg);
+    }
+
+    #counter_part .t-clients h2 {
+        font-size: 16px;
+    }
+
+    #counter_part .t-clients p {
+        font-size: 10px;
+    }
+
+    /* counter end */
+    /* client  start */
+    #client-review {
+        display: none;
+    }
+
+    /* client  end */
+    /* port  start */
+    #port_part {
+        clip-path: polygon(0 0%, 100% 0, 100% 100%, 0% 100%);
+    }
+
+    /* port  end */
+    /* pricing  start */
+    #price_part .standerd-price {
+        margin-top: 20px;
+    }
+
+    #price_part .premium-price {
+        margin-top: 20px;
+    }
+
+    /* pricing  end */
+    /* contact  start */
+    #contact_part {
+        margin-bottom: 100px;
+        background: #a99d9d;
+        clip-path: polygon(0 0%, 100% 0, 100% 100%, 0% 100%);
+        padding: 200px 0;
+    }
+
+    #contact_part .contact-main-one .contact-form form input {
+        padding-right: 53px;
+    }
+
+    #contact_part .contact-main-one .contact-form form textarea {
+        width: 479px;
+    }
+
+    #contact_part .contact-main-one .contact-form form button {
+        left: 48%;
+        padding: 11px 217px;
+        ;
+    }
+
+    #contact_part .contact-main-two {
+        margin-top: 30px;
+    }
+
+    /* contact  end */
+    /* footer  start */
+    footer .social-media-icon i {
+        margin-left: 9px;
+        height: 36px;
+        width: 36px;
+        line-height: 36px;
+        font-size: 14px;
+    }
+
+    /* footer  end */
+}
+
+@media(min-width:768px) and (max-width:991px) {
+
+    /* nav start */
+    nav button i {
+        color: #fff;
+    }
+
+    nav ul {
+        text-align: center;
+        background: #444444;
+    }
+
+    nav ul li a::after {
+        display: none;
+    }
+
+    nav ul li a::before {
+        display: none;
+    }
+
+    /* nav end */
+    /* about start */
+    #about_part .about-me-details .details-all .first-details {
+        margin-left: -7px;
+    }
+
+    #about_part .about-me-details .details-all .first-details ul li p {
+        font-size: 14px;
+    }
+
+    #about_part .about-me-details .details-all .second-details {
+        margin-left: -21px;
+    }
+
+    #about_part .about-me-details .details-all .second-details ul li p {
+        font-size: 14px;
+    }
+
+    /* about end */
+    /* servicer start */
+    #service_part .web-design {
+        background: #fff;
+        margin-bottom: 30px;
+        padding: 54px 27px;
+        transition: all linear .4s;
+        position: relative;
+    }
+
+    #service_part .digital-marketing ul {
+        margin-left: -71px;
+    }
+
+    #service_part .web-design ul {
+        margin-left: -75px;
+    }
+
+    #service_part .web-development ul {
+        margin-left: -65px;
+    }
+
+    /* servicer end */
+
+    /* team start */
+    #team_part .team-title h2 {
+        font-size: 25px;
+    }
+
+    /* team end */
+    /* counter start */
+    #counter_part {
+        clip-path: polygon(0 0%, 100% 0, 100% 100%, 0% 100%);
+    }
+
+    #counter_part .counter-overlay {
+        padding: 34px 0;
+    }
+
+    #counter_part .t-clients {
+        margin: 18px 0;
+        padding: 13px;
+        transform: rotate(0deg);
+    }
+
+    #counter_part .t-clients h2 {
+        font-size: 16px;
+    }
+
+    #counter_part .t-clients p {
+        font-size: 10px;
+    }
+
+    /* counter end */
+    /* client  start */
+    #client-review {
+        display: none;
+    }
+
+    /* client  end */
+    /* port  start */
+    #port_part {
+        clip-path: polygon(0 0%, 100% 0, 100% 100%, 0% 100%);
+    }
+
+    /* port  end */
+    /* pricing  start */
+    #price_part .standerd-price {
+        margin-top: 20px;
+    }
+
+    #price_part .premium-price {
+        margin-top: 20px;
+    }
+
+    /* pricing  end */
+    /* contact  start */
+    #contact_part {
+        margin-bottom: 100px;
+        background: #a99d9d;
+        clip-path: polygon(0 0%, 100% 0, 100% 100%, 0% 100%);
+        padding: 200px 0;
+    }
+
+    #contact_part .contact-main-one .contact-form form input {
+        padding-right: 53px;
+    }
+
+    #contact_part .contact-main-one .contact-form form textarea {
+        width: 479px;
+    }
+
+    #contact_part .contact-main-one .contact-form form button {
+        left: 36%;
+        padding: 11px 217px;
+    }
+
+    #contact_part .contact-main-two {
+        margin-top: 30px;
+    }
+
+    /* contact  end */
+    /* footer  start */
+    footer .social-media-icon i {
+        margin-left: 9px;
+        height: 36px;
+        width: 36px;
+        line-height: 36px;
+        font-size: 14px;
+    }
+
+    /* footer  end */
+}
+
+@media(min-width:992px) and (max-width:1199px) {
+
+    /* about start */
+    #about_part .about-me-details .details-all .first-details ul {
+
+        margin-left: -187px;
+    }
+
+    #about_part .about-me-details .details-all .second-details ul {
+        margin-left: -37px;
+    }
+
+    /* about end */
+    /* service start */
+    #service_part .web-design ul{
+        margin-left: -117px;
+    }
+    #service_part .web-development ul{
+        margin-left: -117px;
+    }
+    #service_part .digital-marketing ul{
+        margin-left: -117px;
+    }
+    /* service end */
+    /* client start */
+    #client-review {
+        display: none;
+    }
+
+    /* client end */
+    /* price start */
+    #price_part .premium-price ul {
+        padding-bottom: 56px;
+    }
+
+    /* price end */
+    /* contact start */
+    #contact_part .contact-main-one .contact-form form input {
+        padding-right: 73px;
+
+        margin-left: 0px;
+    }
+    #contact_part .contact-main-one .contact-form form textarea {
+        margin-left: 0px;
+        width: 512px;
+        height: 95px;
+    }
+    #contact_part .contact-main-one .contact-form form button {
+        left: 49%;
+        padding: 10px 230px;
+    }
+    #contact_part .contact-main-two .email {
+        margin-top: 8px;
+    }
+    #contact_part .contact-main-two .email p {
+        width: auto;
+    }
+    #contact_part .contact-main-two .phone {
+        margin-top: 0px;
+    }
+    #contact_part .contact-main-two .phone p {
+        width: auto;
+    }
+    #contact_part .contact-main-two .address p {
+        width: auto;
+    }
+    #contact_part .contact-main-two {
+        padding: 48px 0;
+    }
+    /* contact end */
+
+}
+@media(min-width:1200px) and (max-width:1399px) {
+
+    /* about start */
+    #about_part .about-me-details .details-all .first-details ul {
+
+        margin-left: -82px;
+    }
+
+    /* #about_part .about-me-details .details-all .second-details ul {
+        margin-left: -37px;
+    } */
+
+    /* about end */
+    /* service start */
+    #service_part .web-design ul {
+        margin-left: -117px;
+        margin-top: 36px;
+    }
+    #service_part .web-development ul{
+        margin-left: -117px;
+    }
+    #service_part .digital-marketing ul{
+        margin-left: -117px;
+    }
+    /* service end */
+    /* client start */
+    #client-review .ima-slider {
+        margin-top: -65px;
+        margin-left: -40px;
+    }
+    #client-review .line {
+        
+        top: 162px;
+        left: 346px;
+    }
+    #client-review .client p {
+        
+        width: auto;
+        
+    }
+    /* client end */
+    /* contact start */
+   
+    #contact_part .contact-main-one .contact-form form button {
+        left: 43%;
+        padding: 10px 230px;
+    }
+  
+    /* contact end */
+
+}
+@media(min-width:1400px) and (max-width:2000px) {
+    #client-review .line {
+        
+        left: 396px;
+    }
+
+}
